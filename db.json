@@ -1,151 +1,137 @@
 {
   "dogs": [
     {
-      "name": "Wilber",
-      "image": "/assets/chihuahua.avif",
-      "description": "magenta boo colossal unpleasant seize Tactics Florida",
-      "isFavorite": true,
+      "name": "Jorge",
+      "image": "/assets/boxer.png",
+      "description": "Other Electronic Account watt Australia",
+      "isFavorite": false,
       "id": 0
     },
     {
-      "name": "Roselyn",
-      "image": "/assets/chihuahua.avif",
-      "description": "Coupe South withdrawal Soft Latin lime Reggae chapter",
+      "name": "Andy",
+      "image": "/assets/dalmation.png",
+      "description": "tangible East SUV male maroon",
       "isFavorite": true,
       "id": 1
     },
     {
-      "name": "Antonia",
-      "image": "/assets/chihuahua.avif",
-      "description": "ampere Metal lavender Funk Fundamental payment wireless",
-      "isFavorite": true,
-      "id": 2
-    },
-    {
-      "name": "Shaina",
+      "name": "Kaylie",
       "image": "/assets/corgi.png",
-      "description": "Cotton male Refined Convertible auxiliary",
+      "description": "integrate copying Solutions Jaguar female",
       "isFavorite": true,
       "id": 3
     },
     {
-      "name": "Dallin",
+      "name": "Saige",
       "image": "/assets/chihuahua.avif",
-      "description": "Directives Delaware why Response Diesel Kentucky blue cyan",
-      "isFavorite": true,
+      "description": "neutral Southeast channels hoard directional qua Fantastic",
+      "isFavorite": false,
       "id": 4
     },
     {
-      "name": "Efrain",
-      "image": "/assets/chihuahua.avif",
-      "description": "Electric Analyst Usability Mountain East Table female Lead",
+      "name": "Ruthie",
+      "image": "/assets/cowardly.png",
+      "description": "whose Issac Funk quam electric hacking Intranet Salad",
       "isFavorite": true,
       "id": 5
     },
     {
-      "name": "Roy",
-      "image": "/assets/corgi.png",
-      "description": "male AGP copying Chair exercitationem",
-      "isFavorite": false,
+      "name": "Kenny",
+      "image": "/assets/cowardly.png",
+      "description": "degree indeed Movies Rustic carelessly",
+      "isFavorite": true,
       "id": 6
     },
     {
-      "name": "Ellis",
-      "image": "/assets/cowardly.png",
-      "description": "Folk interface engage Classical Specialist Bicycle gold",
-      "isFavorite": false,
+      "name": "Gerda",
+      "image": "/assets/boxer.png",
+      "description": "Hatchback AI hmph Clothing Tesla",
+      "isFavorite": true,
       "id": 7
     },
     {
-      "name": "Velma",
-      "image": "/assets/boxer.png",
-      "description": "Diesel whether synthesize South Investment Zirconium farad",
-      "isFavorite": true,
+      "name": "Darrell",
+      "image": "/assets/chihuahua.avif",
+      "description": "transmitting Pizza Borders female Northwest Soft female Implementation",
+      "isFavorite": false,
       "id": 8
     },
     {
-      "name": "Theodora",
-      "image": "/assets/dalmation.png",
-      "description": "Alaska Sedan digital empowering 1080p huzzah Bike Wooden",
-      "isFavorite": false,
+      "name": "Thelma",
+      "image": "/assets/cowardly.png",
+      "description": "to South pixel Latin sievert puff functionalities",
+      "isFavorite": true,
       "id": 9
     },
     {
-      "name": "Geovanny",
-      "image": "/assets/cowardly.png",
-      "description": "South North male Sports Gasoline",
-      "isFavorite": false,
+      "name": "Maximillian",
+      "image": "/assets/corgi.png",
+      "description": "toward Analyst channels sequel sack Bike Southwest quaintly",
+      "isFavorite": true,
       "id": 10
     },
     {
-      "name": "Estevan",
-      "image": "/assets/dalmation.png",
-      "description": "Automotive Monitored circa violet Georgia",
+      "name": "Dane",
+      "image": "/assets/chihuahua.avif",
+      "description": "Hybrid Concrete Arizona Cambridgeshire Metal Southwest fuchsia",
       "isFavorite": false,
       "id": 11
     },
     {
-      "name": "Estefania",
-      "image": "/assets/dalmation.png",
-      "description": "reboot facilis input management that overriding SMTP",
-      "isFavorite": true,
+      "name": "Adonis",
+      "image": "/assets/boxer.png",
+      "description": "yum road withdrawal male gray of BMX",
+      "isFavorite": false,
       "id": 12
     },
     {
-      "name": "Myles",
-      "image": "/assets/blue-heeler.png",
-      "description": "Synchronised group sensor composite raw anenst navigate",
+      "name": "Stevie",
+      "image": "/assets/corgi.png",
+      "description": "Coupe supposing Tandem ampere East female capacitor",
       "isFavorite": false,
       "id": 13
     },
     {
-      "name": "Santiago",
-      "image": "/assets/corgi.png",
-      "description": "woman Global piercing Rap Web",
-      "isFavorite": true,
+      "name": "Georgette",
+      "image": "/assets/chihuahua.avif",
+      "description": "Bicycle Hill finally Tennessee North Neodymium Seychelles",
+      "isFavorite": false,
       "id": 14
     },
     {
-      "name": "Oral",
-      "image": "/assets/chihuahua.avif",
-      "description": "City Optimized Corporate Clothing Implemented Metal navigating Chair",
+      "name": "Christopher",
+      "image": "/assets/blue-heeler.png",
+      "description": "Hybrid teepee alarm Delaware plum",
       "isFavorite": false,
       "id": 15
     },
     {
-      "name": "Anjali",
-      "image": "/assets/chihuahua.avif",
-      "description": "Bicycle canst nor henry RAM",
-      "isFavorite": false,
+      "name": "Obie",
+      "image": "/assets/cowardly.png",
+      "description": "because known Shirt Chief Funk salmon Loan Chicken",
+      "isFavorite": true,
       "id": 16
     },
     {
-      "name": "Angelina",
-      "image": "/assets/blue-heeler.png",
-      "description": "Manager Sodium FTM maroon SSD Jewelery White bully",
+      "name": "Brock",
+      "image": "/assets/corgi.png",
+      "description": "Books male bypassing matrices North",
       "isFavorite": true,
       "id": 17
     },
     {
-      "name": "Sandra",
-      "image": "/assets/boxer.png",
-      "description": "Lamborghini deposit disintermediate turquoise Martin",
-      "isFavorite": false,
+      "name": "Richie",
+      "image": "/assets/corgi.png",
+      "description": "Pickup Internal Licensed invoice weekly saepe Table JBOD",
+      "isFavorite": true,
       "id": 18
     },
     {
-      "name": "Yvette",
+      "name": "Kayley",
       "image": "/assets/boxer.png",
-      "description": "distributed Sleek nest exploit Surinam compressing straight",
+      "description": "pronounce meter given standardization kilogram",
       "isFavorite": true,
       "id": 19
-    },
-    {
-      "name": "asdfasdf",
-      "description": "asdfasdf",
-      "image": "/assets/blue-heeler.png",
-      "isFavorite": false,
-      "id": 20
     }
   ]
 }
